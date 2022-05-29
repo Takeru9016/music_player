@@ -1,0 +1,7 @@
+.main-body {
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient(to bottom, #ea8d8d, #a890fe);
+    border-radius: 30px;
+    display: flex;
+}
